@@ -1,5 +1,5 @@
 # mc34i-ejD-3rV1-e2KaA-fD41-pise-2d2nddRt
-###### Gas Stations Data Management System
+# Gas Stations Data Management System
 
 ### Overview
 This project is a Java application for managing gas station data. It includes functionality to fetch gas station data from an external API, parse it, and store it in a PostgreSQL database. Additionally, it provides APIs for retrieving fuel price statistics and searching for gas stations by name.
